@@ -12,14 +12,14 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Person Person1 = new Person();
-            Person1.Name = "Rahmat Fauzi Abu Bakar";
-            Person1.Age = 20;
+            Person1.Name = "Ridho Zahran Pratama";
+            Person1.Age = 19;
             Person1.InfoPerson();
             Console.WriteLine();
 
             // Inheritance
             Karyawan Karyawan1 = new Karyawan();
-            Karyawan1.Name = "Fauzi";
+            Karyawan1.Name = "Zahran";
             Karyawan1.Age = 28;
             Karyawan1.InfoPerson();
             Karyawan1.InfoPerson("Sekertaris", "6HC231");
