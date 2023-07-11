@@ -1,0 +1,8 @@
+C:\pemrog\ConsoleApp09\prak10\bin\Debug\prak10.exe.config
+C:\pemrog\ConsoleApp09\prak10\bin\Debug\prak10.exe
+C:\pemrog\ConsoleApp09\prak10\bin\Debug\prak10.pdb
+C:\pemrog\ConsoleApp09\prak10\obj\Debug\prak10.csproj.AssemblyReference.cache
+C:\pemrog\ConsoleApp09\prak10\obj\Debug\prak10.csproj.SuggestedBindingRedirects.cache
+C:\pemrog\ConsoleApp09\prak10\obj\Debug\prak10.csproj.CoreCompileInputs.cache
+C:\pemrog\ConsoleApp09\prak10\obj\Debug\prak10.exe
+C:\pemrog\ConsoleApp09\prak10\obj\Debug\prak10.pdb

@@ -1,0 +1,8 @@
+C:\pemrog\ConsoleApp09\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\pemrog\ConsoleApp09\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\pemrog\ConsoleApp09\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\pemrog\ConsoleApp09\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\pemrog\ConsoleApp09\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\pemrog\ConsoleApp09\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\pemrog\ConsoleApp09\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\pemrog\ConsoleApp09\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
